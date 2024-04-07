@@ -1,0 +1,23 @@
+{
+    "http://dl-cdn.alpinelinux.org/alpine" :["Alpine"],
+    "https://github.com/" :["Bower", "CocoaPods", "Composer", "Vcs", "Terraform"],
+    "https://supermarket.chef.io" : ["Chef"],
+    "https://index.crates.io/" : ["Cargo"],
+    "https://repo.anaconda.com/pkgs/main" :["Conda"],
+    "https://center.conan.io/" :["Conan"],
+    "https://cran.r-project.org/" : ["Cran"], 
+    "http://archive.ubuntu.com/ubuntu/" : ["Debian"],
+    "https://registry-1.docker.io/" : ["Docker"], 
+    "https://rubygems.org/" : ["Gems"],
+    "https://proxy.golang.org/" : ["Go"], 
+    "https://repo1.maven.org/maven2/" : ["Gradle", "Ivy", "Maven", "P2", "Sbt"],
+    "https://repo.chartcenter.io/" : ["Helm"], 
+    "https://registry.npmjs.org" : ["Npm"],
+    "https://www.nuget.org/" : ["Nuget"],
+    "https://downloads.openwrt.org/chaos_calmer/15.05.1/" : ["Opkg"],
+    "https://forgeapi.puppetlabs.com/" :["Pupept"],
+    "https://files.pythonhosted.org" : ["Pypi"],
+    "http://mirror.centos.org/centos/" : ["Yum"],
+    "https://pub.dartlang.org" : ["Pub"],
+    "https://huggingface.co" : ["Huggingface"]
+}
