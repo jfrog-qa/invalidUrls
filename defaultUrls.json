@@ -1,6 +1,6 @@
 {
   "http://dl-cdn.alpinelinux.org": ["Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","huggingfaceml"],
-  "https://github.com": ["Alpine","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","Huggingface"],
+  "https://github.com": ["Alpine","Chef","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","huggingfaceml"],
   "https://supermarket.chef.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Cargo","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","huggingfaceml"],
   "https://index.crates.io": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Conda","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","huggingfaceml"],
   "https://repo.anaconda.com": ["Alpine","Bower","CocoaPods","Composer","Vcs","Terraform","Chef","Cargo","Conan","Cran","Debian","Docker","Gems","Go","Gradle","Ivy","Maven","P2","Sbt","Helm","Npm","Nuget","Opkg","Pupept","Pypi","Yum","Pub","huggingfaceml"],
