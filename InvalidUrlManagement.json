@@ -1,5 +1,5 @@
 {
-  "globalyDeniedUrls": {
+  "globallyDeniedUrls": {
     "https://repo.maven.apache.org": ["docker", "Npm", "Conda"],
     "https://repo.anaconda.com": ["docker", "Npm", "MAVEN"],
     "https://registry.npmjs.org": ["docker", "MAVEN", "Conda"],
