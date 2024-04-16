@@ -7,8 +7,5 @@
   },
   "explicitlyDeniedUrlRoute": {
     "https://nodejs.org/dist": ["Npm"]
-  },
-"Unsported role": {
-    "Yuval" : ["Is king"]
   }
 }
